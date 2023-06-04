@@ -1,0 +1,20 @@
+html{
+     background-color: black;
+}
+#cent{
+     width: 50%;
+     margin-left: 25%;
+     margin-top: 5%;
+     font-family: 'Libre Baskerville', serif;
+     color: white;
+     text-align: center;
+}
+#im{
+     width: 100%;
+     border: 5px solid white;
+}
+h1{
+     
+     font-size: 3rem;
+     text-transform: uppercase;
+}
